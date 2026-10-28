@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Wind Desk — Elexon day-ahead wind intelligence
 
 A first-version decision-support web app for UK electricity procurement teams. It pairs the Elexon BMRS **WINDFOR** wind forecast vintage available by a configurable decision cutoff with **FUELHH** wind generation outturn, then quantifies forecast error. The assignment scope is national wind generation and January 2026 only.
@@ -105,3 +106,7 @@ AI tools were used to assist with domain/API research, product design, and imple
 
 
 
+=======
+# wind-desk-elexon
+ Wind desk forecast available at decision time, and how it performed against metered outturn
+>>>>>>> c23af2c474da4756144d95321a53130d1aaf4719
